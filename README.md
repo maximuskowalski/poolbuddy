@@ -1,3 +1,5 @@
+![poolbuddy](https://github.com/maximuskowalski/poolbuddy/blob/main/poolbuddy_splash.png?raw=true)
+
 # Purpose
 
 **Poolbuddy** is designed to streamline the management of pool data and chemical balances for pool operators. The application aims to facilitate the efficient monitoring, recording, and analysis of pool conditions, ensuring optimal operational standards and safety.
